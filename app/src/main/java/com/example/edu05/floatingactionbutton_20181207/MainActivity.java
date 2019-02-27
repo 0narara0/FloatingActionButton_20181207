@@ -31,7 +31,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
         fab2.setOnClickListener(this);
     }
 
-
+    // github 에러 때문데 주석 달기
     @Override
     public void onClick(View v) {
         int id = v.getId();
